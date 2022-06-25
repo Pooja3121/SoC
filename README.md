@@ -8,4 +8,7 @@ Basics of python:
      I have also done with Numpy and Pandas .
      In Pandas I have learned all about dataframes.
      In Numpy I learned about arrays .
+Deep learning:  
+     I have understand basics of deep learning
+     I have completed tensorflow
      
